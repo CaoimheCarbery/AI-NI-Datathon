@@ -1,1 +1,18 @@
-#Details of Code
+# Coders can use any choice of software: Some good options are Python and R
+
+#Below are a list of python libraries that might be useful
+
+import pandas as pd
+import pickle
+import numpy as np
+import scikit-learn as sklearn
+import tensorflow as tf
+import matplotlib.pyplot as plt
+
+
+
+#Some libraries in R
+
+library(DataExplorer)
+library(caret)
+
