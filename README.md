@@ -3,3 +3,7 @@ Welcome to the AI NI Datathon! This challenge is considering methods of AI and d
 
 ## Workshop Slides - Dirty Data or Biased Data?
 
+The workshop is at 1.30 on Sat! Slide links will be uploaded after the talk!
+
+
+
