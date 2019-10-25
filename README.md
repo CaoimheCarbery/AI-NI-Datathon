@@ -5,5 +5,25 @@ Welcome to the AI NI Datathon! This challenge is considering methods of AI and d
 
 The workshop is at 1.30 on Sat! Slide links will be uploaded after the talk!
 
+----------------------------------------------------------------
 
+## Challenge Dataset Description
+
+#### Features: 
+
+- id: Applican ID
+- Name: Applicant name
+- Gender: Applicant Gender
+- Qualification: Value 1-5 (See description below)
+- Job Type: Job area applied for
+- Race: Candidate race
+- GPA: Applicant GPA
+- Interviewed: TRUE or FALSE
+
+_Qualifaction Feature_
+- 1 = Bachelors Degree
+- 2 = Masters Degree
+- 3 = Doctorate
+- 4 = Diploma
+- 5 = Other
 
