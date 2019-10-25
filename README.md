@@ -11,12 +11,12 @@ The workshop is at 1.30 on Sat! Slide links will be uploaded after the talk!
 
 #### Features: 
 
-- id: Applican ID
+- id: Applicant ID
 - Name: Applicant name
 - Gender: Applicant Gender
 - Qualification: Value 1-5 (See description below)
 - Job Type: Job area applied for
-- Race: Candidate race
+- Race: Applicant race
 - GPA: Applicant GPA
 - Interviewed: TRUE or FALSE
 
